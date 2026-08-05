@@ -1,6 +1,5 @@
 # SOLIDWORKS-_MOUNTING_BRACKET_TASK2
 This repository contains my SOLIDWORKS Mechanical Design Task 2 project, focused on advanced part modeling using slots, Hole Wizard, linear patterns, fillets, and parametric design intent. The model demonstrates accurate sketching, feature-based modeling, clean feature tree organization, and engineering design best practices.
-The project focuses on creating fully defined sketches and using feature-based modeling techniques to build an accurate and parametric 3D model.
 # OBJECTIVES 
 Create fully constrained sketches
 Model a mounting bracket using feature-based design
@@ -26,3 +25,8 @@ SOLIDWORKS Part File (.SLDPRT)
 Project Screenshots
 Feature Tree Images
 README.md
+# Learning Outcomes
+Developed advanced SOLIDWORKS part modeling skills.
+Learned to use Slots, Hole Wizard, and Linear Pattern.
+Improved sketching, design intent, and feature tree organization.
+Created a fully parametric and professional 3D model.
